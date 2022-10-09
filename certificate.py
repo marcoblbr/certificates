@@ -134,8 +134,8 @@ for i in newTxtList:
     y = y - 12
 
 
-  # USAR PARA NOMES DE TIMES
-  fontSize = int (1.5 * fontSize)
+  # USE FOR TEAM NAMES ONLY
+  #fontSize = int (1.5 * fontSize)
 
 
   font = ImageFont.truetype ("./FiraSans-Black.ttf", fontSize)
